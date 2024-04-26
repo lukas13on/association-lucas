@@ -46,9 +46,13 @@ gem "bootsnap", require: false
 # gem "image_processing", "~> 1.2"
 
 gem "cpf_cnpj"
+gem "faker"
+gem 'rails_performance'
+gem 'will_paginate', '~> 4.0'
 gem 'devise'
 gem "devise-i18n"
 gem "devise-bootstrap5"
+gem "chartkick"
 
 gem 'faker'
 
